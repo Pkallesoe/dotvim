@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/usr/share/themes/Orta/gtk-2.0'
+let g:netrw_dirhist_2='/home/peter/.xmonad/xmonad.bak'
+let g:netrw_dirhist_3='/media/usb/tip'
+let g:netrw_dirhist_4='/home/peter/.offlineimap'
+let g:netrw_dirhist_5='/home/peter/.irssi'
+let g:netrw_dirhist_6='/srv/http'
+let g:netrw_dirhist_7='/home/peter/.ncmpcpp'
+let g:netrw_dirhist_8='/home/peter/.gconf'
