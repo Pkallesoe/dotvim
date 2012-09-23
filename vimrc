@@ -76,3 +76,9 @@ set encoding=utf-8 " Necessary to show Unicode glyphs
 "au BufWinEnter * silent loadview
 set foldcolumn=1
 
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Taglist
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let Tlist_Use_Right_Window = 1
+nmap <leader>t :TlistToggle<cr>
+
